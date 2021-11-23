@@ -16,4 +16,9 @@ public static void main(String args[])
  #username = testttt
  #password = password
   
-}}
+}
+public int add(int firstnum, int secnum){
+ Integer myint = null;
+ Integer bint =myint * 2;
+ return bint;
+}
